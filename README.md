@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhangYizhe&layout=compact" />
 
-- Data Analytics
-- Artificial Intelligence
+- Recommendation System
+- Data Analytics & AI
 - Swift & OC
 - Python
 

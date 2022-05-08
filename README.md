@@ -3,6 +3,6 @@
 - Recommendation System
 - Data Analytics & AI
 - Swift & OC
-- Python 
+- Python & JAVA
 
 If you would like to browse some ML algorithms which developed by hand, [click it](https://github.com/ZhangYizhe/JupyterNotes.git).

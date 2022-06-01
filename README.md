@@ -4,3 +4,5 @@
 - Data Analytics & AI
 - Swift & OC
 - Python & JAVA
+
+Click the link to visit my [personal blog](https://zhangyizhe.github.io).

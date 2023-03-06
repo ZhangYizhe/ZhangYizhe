@@ -4,4 +4,4 @@ I am a Research Assistant in the Department of Computer Science at Hong Kong Bap
 
 Research Interests: Recommender Systems, Human-Computer Interaction, Software Engineering.
 
-Click [HCI-RecSys Pi Lab](https://hci.comp.hkbu.edu.hk) to visit our research group.
+Our ["Positive Intelligence" Lab](https://hci.comp.hkbu.edu.hk) conducts interdisciplinary research on intelligent technology for well-being.
